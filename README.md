@@ -1,3 +1,3 @@
 # advanced-python
 python basic
-python works during internshio
+akber works done during python i
