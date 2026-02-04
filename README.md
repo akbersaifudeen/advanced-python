@@ -1,2 +1,3 @@
 # advanced-python
-python works
+python basic
+python works during internshio
